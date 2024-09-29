@@ -20,3 +20,6 @@ package ghjghjg
 	}
 	}
 	ghgjh
+	func main() {
+		
+	}
